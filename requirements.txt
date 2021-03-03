@@ -1,0 +1,18 @@
+# Will contain the inforamtion needed in order to run my app
+#     importing seaborn
+#     importing pandas
+#     importing matplotlib
+
+# WHATEVER ELSE IS NEEDED ONCE I GET MY LIFE TOGETHER AND GET SOME CODE ROLLING
+
+
+The steps for each can be found below:
+
+Seaborn:
+https://seaborn.pydata.org/installing.html
+
+MatPlotLib:
+https://matplotlib.org/stable/users/installing.html
+
+Pandas:
+https://pandas.pydata.org/getting_started.html
