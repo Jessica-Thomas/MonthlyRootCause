@@ -1,9 +1,16 @@
 # MonthlyRootCause
 
-The purpose of this notebook is to make a work process significantly more efficient. Each month, the executive leadership team, dev managers and upper management gaather to discuss major defects from the previous month. It is my and my teammate's responisbility to track and report relevant stats. Overviews for every technology team and severity level are reported via boxplots. Until now, each boxplot is created one at a time-- for 60 graphs, this is incredibly time consuming and tedious. Using this notebook, I can have my case age csv pulled in and all boxplots created in one fell swoop. A several hours long process has been reduced to a fraction of the time.
+The purpose of this notebook is to make a work process significantly more efficient. Each month, the executive leadership team, dev managers and upper management gather to discuss major defects from the previous month. It is my and my teammate's responisbility to track and report relevant stats. Overviews for every technology team and severity level are reported via boxplots. Until now, each boxplot is created one at a time-- for 60 graphs, this is incredibly time consuming and tedious. Using this notebook, I can have my case age csv pulled in and all boxplots created in one fell swoop. A several hours long process has been reduced to a fraction of the time.
 
-In order to execute this program, you will need to have Seaborn, MatPlotLib and Pandas installed. Please run the included requirements.txt file included in this package. Once installed, a jupyter notebook session needs to be opened at the project folder.
+In order to execute this program, you will need to have Seaborn, MatPlotLib and Pandas installed. Please run the included requirements.txt file included in this package. Once installed, a jupyter notebook session needs to be opened at the project folder. To run the requirements.txt, use the following command within your command prompt: 
 
+pip install -r requirements.txt
+
+Once complete, you can open the Jupyter notebook by navigating to the folder in which this project is saved within your command prompt:
+
+jupyter notebook
+
+Once in the notebook, to execute you will need to click Cell > Run All.
 
 
 Code Louisville requirements being met:
